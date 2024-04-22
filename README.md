@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mossihss
-- 👀 I’m interested in back-end Developer
+- 👀 I’m interested in Back-end Developer
 - 🌱 I’m currently learning Python/Django
 
 <!---
